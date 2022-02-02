@@ -1,5 +1,5 @@
 # Precios-vivienda-Bogotá
-Predecir el precio de venta de los inmuebles para vivienda en Bogotá utilizando redes neuronales y un modelo de ensemble learning.
+**Objetivo:** Predecir el precio de venta de los inmuebles para vivienda en Bogotá utilizando redes neuronales y un modelo de ensemble learning.
 
 Datos provistos por <a href='https://www.properati.com.co'>Properati</a>
 
